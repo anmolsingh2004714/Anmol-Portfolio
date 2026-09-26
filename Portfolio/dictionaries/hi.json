@@ -1,0 +1,70 @@
+{
+    "nav": {
+        "home": "होम",
+        "about": "मेरे बारे में",
+        "stack": "तकनीकी स्टैक",
+        "projects": "प्रोजेक्ट्स",
+        "roadmap": "रोडमैप",
+        "contact": "संपर्क"
+    },
+    "title": {
+        "about": "मेरे बारे में",
+        "stack": "तकनीकी स्टैक",
+        "projects": "प्रोजेक्ट्स",
+        "roadmap": "रोडमैप",
+        "contact": "संपर्क"
+    },
+    "about": {
+        "intro": "वेब डेवलपमेंट, AI और रोबोटिक्स को जोड़ने वाला सॉफ्टवेयर बनाना।",
+        "description": "मैं देवांग कुमार हूँ, एक B.Tech Artificial Intelligence & Machine Learning छात्र और Full-Stack Developer। मैं React, Next.js, Node.js और Python का उपयोग करके आधुनिक वेब एप्लिकेशन बनाता हूँ, जबकि ROS 2 के साथ AI, मशीन लर्निंग और रोबोटिक्स का अन्वेषण भी करता हूँ। मुझे साफ़ कोड और निरंतर सीखने के माध्यम से व्यावहारिक, स्केलेबल समाधान बनाना पसंद है।"
+    },
+    "contact": {
+        "email": "anmolsingh2004714 012@gmail.com",
+        "phone": "+91 9999999999"
+    },
+    "social": [
+        {
+            "label": "GITHUB",
+            "href": "https://github.com"
+        },
+        {
+            "label": "DISCORD",
+            "href": "https://discord.com"
+        },
+        {
+            "label": "INSTAGRAM",
+            "href": "https://instagram.com"
+        },
+        {
+            "label": "LINKEDIN",
+            "href": "https://linkedin.com"
+        }
+    ],
+    "scrollDown": "नीचे स्क्रॉल करें",
+    "contactMe": "संपर्क करें",
+    "exploreProjects": "मेरे प्रोजेक्ट्स",
+    "readFullVersion": "पूरा पढ़ें",
+    "frontendStack": "फ्रंटएंड",
+    "backendStack": "बैकएंड",
+    "databaseStack": "डेटाबेस एवं ORMs",
+    "toolsStack": "टूल्स एवं इंफ्रास्ट्रक्चर",
+    "roboticsStack": "रोबोटिक्स",
+    "projectsIntro": "**विचारों**, *प्रयोगों* और *डिजिटल रचनाओं* का एक संग्रह, जो **कल्पना** से आकार लिया है।",
+    "projectsScrollText": "देखने के लिए स्क्रॉल करें",
+    "projectsEndText": "समाप्त",
+    "roadmapDescription": "मेरी सॉफ्टवेयर यात्रा के दौरान सीखे गए कौशलों, अनुभवों और तकनीकों का एक रोडमैप।",
+    "contactIntroText": "चाहे हम किसी नए प्रोजेक्ट की शुरुआत करें या किसी मौजूदा सिस्टम को और बेहतर बनाएं, मैं आपकी मदद के लिए तैयार हूँ।",
+    "sendEmail": "ईमेल भेजें",
+    "directLine": "फ़ोन नंबर",
+    "allRightsReserved": "सर्वाधिकार सुरक्षित।",
+    "contactModalDescription": "मुझे एक संदेश भेजें, मैं जल्द से जल्द आपसे संपर्क करूँगा।",
+    "projectDetails": "प्रोजेक्ट विवरण",
+    "aboutProject": "प्रोजेक्ट के बारे में",
+    "technologies": "प्रयुक्त तकनीकें",
+    "liveDemo": "लाइव डेमो",
+    "sourceCode": "सोर्स कोड",
+    "notFound": {
+        "title": "पृष्ठ नहीं मिला",
+        "goHome": "होम पेज पर जाएँ"
+    }
+}

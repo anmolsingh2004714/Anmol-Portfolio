@@ -1,0 +1,128 @@
+{
+  "hero": {
+    "tagline": "Building modern web applications and exploring AI to turn ideas into practical, useful software."
+  },
+  "about": {
+    "intro": "I'm a Computer Science student who enjoys learning, building, and solving real-world problems with code.",
+    "description": "I build modern web applications and explore Artificial Intelligence, AI Agents, and automation. I enjoy turning ideas into working projects, learning new technologies, and continuously improving my development and problem-solving skills.",
+    "full": "Hi, I'm **Anmol Singh**, a B.Tech Computer Science Engineering student at **Hi-Tech Institute of Engineering & Technology**, affiliated with AKTU.\n\nI enjoy learning new technologies and turning ideas into practical software projects. My journey started with programming fundamentals and gradually moved towards full-stack web development, backend development, APIs, databases, and Artificial Intelligence.\n\nI primarily work with *HTML*, *CSS*, *JavaScript*, *React*, *Python*, *Flask*, *Django*, *Django REST Framework*, *MySQL*, *SQL*, *Tailwind CSS*, and *Git*. I also work with REST APIs and have been exploring AI-powered applications, AI Agents, automation, and intelligent software systems.\n\nSome of the projects I've worked on include a **Full-Stack E-Commerce Website**, a **Binance Market Terminal Website**, and a **Personal AI Assistant**. These projects have helped me improve my frontend, backend, database, API integration, and software development skills.\n\nI also practice **Data Structures and Algorithms** to improve my problem-solving ability and prepare for software development opportunities. I enjoy exploring new technologies, building projects, and learning through practical development.\n\nMy goal is to become a **Software Engineer** specializing in Full-Stack Development and Artificial Intelligence, building useful, scalable, and intelligent applications while continuously improving my technical skills."
+  },
+  "manifesto": [
+    "KEEP LEARNING",
+    "SOLVE REAL PROBLEMS",
+    "BUILD PRACTICAL PROJECTS",
+    "LEARN AI",
+    "WRITE CLEAN CODE",
+    "KEEP IMPROVING"
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Full-Stack E-Commerce Website",
+      "category": "E-Commerce Platform",
+      "year": "2026",
+      "description": "A full-stack e-commerce website built with modern web technologies, featuring a responsive design, product catalog, shopping cart, and secure payment processing.",
+      "image": "/projects/E-commerce.png",
+      "repo": "https://my-online-shopping-app-3.onrender.com",
+      "stack": [
+        "Python",
+        "Flask",
+        "React",
+        "MySQL",
+        "AI"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Binance Market Terminal Website",
+      "category": "Financial Technology",
+      "year": "2026",
+      "description": "A real-time cryptocurrency market terminal for Binance, providing users with up-to-date price information, trading charts, and market analysis tools. Built with a modern frontend and robust backend infrastructure.",
+      "image": "/projects/Binance_market_terminal.png",
+      "repo": "https://github.com/anmolsingh2004714/Binance-Market-Terminal",
+      "stack": [
+        "React",
+        "TailwindCSS",
+        "HTML5",
+        "AI"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Personal AI Assistant",
+      "category": "Web Application",
+      "year": "2026",
+      "description": "A personal AI assistant built with modern web technologies, featuring natural language processing, intelligent task management, and seamless integration with popular productivity tools. Designed to enhance user efficiency and provide a personalized experience.",
+     "image": "/projects/NEXA_AI ASSISTANT.png",
+      "repo": "https://github.com/anmolsingh2004714/NEXA_AI_ASSISTANT-",
+      "stack": [
+        "Python",
+        "AI"
+      ]
+    }
+  ],
+  "roadmap": [
+    {
+      "id": "01",
+      "year": "2023",
+      "description": "Started my B.Tech journey in Computer Science Engineering and learned programming fundamentals, problem-solving, object-oriented programming, and basic data structures.",
+      "stack": [
+        "C",
+        "Python",
+        "OOP",
+        "DSA"
+      ]
+    },
+    {
+      "id": "02",
+      "year": "2024",
+      "description": "Started building web applications and developed a strong foundation in frontend development, Python backend development, databases, and web fundamentals.",
+      "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "Flask",
+        "MySQL"
+      ]
+    },
+    {
+      "id": "03",
+      "year": "2025",
+      "description": "Expanded into full-stack development by learning React, Django, REST APIs, and database management. Built practical projects and improved my understanding of backend development and software architecture.",
+      "stack": [
+        "React",
+        "Django",
+        "Django REST Framework",
+        "REST API",
+        "MySQL",
+        "Git"
+      ]
+    },
+    {
+      "id": "04",
+      "year": "2026",
+      "description": "Focused on building full-stack applications and exploring Artificial Intelligence, AI Agents, automation, and API integration while continuing to improve my DSA and software development skills.",
+      "stack": [
+        "React",
+        "Python",
+        "Django",
+        "Flask",
+        "AI Agents",
+        "Automation"
+      ]
+    },
+    {
+      "id": "05",
+      "year": "Future",
+      "description": "My goal is to become a Software Engineer specializing in Full-Stack Development and Artificial Intelligence, building scalable web applications, intelligent AI systems, and practical software solutions.",
+      "stack": [
+        "Full Stack",
+        "AI Agents",
+        "System Design",
+        "Cloud",
+        "Artificial Intelligence"
+      ]
+    }
+  ]
+}

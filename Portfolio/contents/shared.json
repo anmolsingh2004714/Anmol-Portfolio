@@ -1,0 +1,149 @@
+{
+  "contact": {
+    "location": "Ghaziabad, Uttar Pradesh, India",
+    "email": "anmolsingh20047140@gmail.com",
+    "phone": "9910879932"
+  },
+  "social": [
+    {
+      "label": "GitHub",
+      "href": "https://github.com/anmolsingh2004714"
+    },
+    {
+      "label": "LinkedIn",
+      "href": "https://www.linkedin.com/in/anmol-singh-031aba37a/"
+    },
+    {
+      "label": "Instagram",
+      "href": "https://www.instagram.com/anmol640singh/"
+    }
+  ],
+  "stack": {
+    "frontend": [
+      {
+        "name": "React.js",
+        "icon": "/stack/react.svg",
+        "featured": true
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/stack/javascript.svg",
+        "featured": true
+      },
+      {
+        "name": "TypeScript",
+        "icon": "/stack/typescript.svg",
+        "featured": true
+      },
+      {
+        "name": "HTML5",
+        "icon": "/stack/html5.svg",
+        "featured": true
+      },
+      {
+        "name": "CSS3",
+        "icon": "/stack/css3.svg",
+        "featured": true
+      },
+      {
+        "name": "Tailwind CSS",
+        "icon": "/stack/tailwindcss.svg",
+        "featured": true
+      },
+      {
+        "name": "Bootstrap",
+        "icon": "/stack/bootstrap.svg"
+      }
+    ],
+    "backend": [
+      {
+        "name": "Python",
+        "icon": "/stack/python.svg",
+        "featured": true
+      },
+      {
+        "name": "Django",
+        "icon": "/stack/django.svg",
+        "featured": true
+      },
+      {
+        "name": "Flask",
+        "icon": "/stack/flask.svg",
+        "featured": true
+      },
+      {
+        "name": "REST API",
+        "icon": "/stack/api.svg",
+        "featured": true
+      }
+    ],
+    "database": [
+      {
+        "name": "MySQL",
+        "icon": "/stack/mysql.svg",
+        "featured": true
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "/stack/postgresql.svg"
+      },
+      {
+        "name": "SQL",
+        "icon": "/stack/sql.svg",
+        "featured": true
+      }
+    ],
+    "ai": [
+      {
+        "name": "AI Agents",
+        "icon": "/stack/ai.svg",
+        "featured": true
+      },
+      {
+        "name": "Generative AI",
+        "icon": "/stack/genai.svg",
+        "featured": true
+      },
+      {
+        "name": "LLMs",
+        "icon": "/stack/llm.svg",
+        "featured": true
+      }
+    ],
+    "tools": [
+      {
+        "name": "Git",
+        "icon": "/stack/git.svg",
+        "featured": true
+      },
+      {
+        "name": "GitHub",
+        "icon": "/stack/github.svg",
+        "featured": true
+      },
+      {
+        "name": "VS Code",
+        "icon": "/stack/vscode.svg",
+        "featured": true
+      },
+      {
+        "name": "Postman",
+        "icon": "/stack/postman.svg",
+        "featured": true
+      },
+      {
+        "name": "Vite",
+        "icon": "/stack/vite.svg",
+        "featured": true
+      },
+      {
+        "name": "Render",
+        "icon": "/stack/render.svg"
+      },
+      {
+        "name": "Vercel",
+        "icon": "/stack/vercel.svg"
+      }
+    ]
+  }
+}

@@ -1,0 +1,70 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "roadmap": "Roadmap",
+        "contact": "Contact"
+    },
+    "title": {
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "roadmap": "Roadmap",
+        "contact": "Contact"
+    },
+    "about": {
+        "intro": "Building software that connects web development, AI, and robotics.",
+        "description": "I'm Anmol SIngh, a B.Tech Artificial Intelligence & Machine Learning student and Full-Stack Developer. I build modern web applications using React, Next.js, Node.js, and Python while exploring AI, machine learning, and robotics with ROS 2. I enjoy turning ideas into practical, scalable solutions through clean code and continuous learning."
+    },
+    "contact": {
+        "email": "anmolsingh2004714 012@gmail.com",
+        "phone": "+91 9999999999"
+    },
+    "social": [
+        {
+            "label": "GITHUB",
+            "href": "https://github.com"
+        },
+        {
+            "label": "DISCORD",
+            "href": "https://discord.com"
+        },
+        {
+            "label": "INSTAGRAM",
+            "href": "https://instagram.com"
+        },
+        {
+            "label": "LINKEDIN",
+            "href": "https://linkedin.com"
+        }
+    ],
+    "scrollDown": "Scroll",
+    "contactMe": "Contact Me",
+    "exploreProjects": "Explore Projects",
+    "readFullVersion": "Read Full Version",
+    "frontendStack": "Frontend Technologies",
+    "backendStack": "Backend Technologies",
+    "databaseStack": "Databases & ORMs",
+    "toolsStack": "Tools & Infrastructure",
+    "roboticsStack": "Robotics",
+    "projectsIntro": "A collection of *experiments*, *products*, and *digital artifacts* forged in the **void**.",
+    "projectsScrollText": "Scroll to explore",
+    "projectsEndText": "End",
+    "roadmapDescription": "A roadmap where I share the experiences I've gained throughout my software journey and the technologies I've learned.",
+    "contactIntroText": "Whether we start fresh to bring a project to life or take an existing system further.",
+    "sendEmail": "Send an Email",
+    "directLine": "Direct Line",
+    "allRightsReserved": "All rights reserved.",
+    "contactModalDescription": "Send me a message and I'll get back to you as soon as possible.",
+    "projectDetails": "Details about",
+    "aboutProject": "About the Project",
+    "technologies": "Technologies",
+    "liveDemo": "Live Demo",
+    "sourceCode": "Source Code",
+    "notFound": {
+        "title": "Page Not Found",
+        "goHome": "Back to Home"
+    }
+}
